@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table /> Expect to have unit tests specified 1`] = `
+<div>
+  <styles__Title>
+    No items to show
+  </styles__Title>
+</div>
+`;

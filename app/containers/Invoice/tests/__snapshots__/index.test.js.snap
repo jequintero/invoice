@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Invoice /> Expect to have unit tests specified 1`] = `
+<div>
+  <HelmetWrapper
+    defer={true}
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Invoice Editor
+    </title>
+    <meta
+      content="Invoice Editor"
+      name="description"
+    />
+  </HelmetWrapper>
+  <styles__Button>
+     New Item
+  </styles__Button>
+  <Table
+    tableData={Array []}
+    tableHeaders={Array []}
+  />
+</div>
+`;
